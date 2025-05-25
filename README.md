@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Md. Mehedi Hasan Babu </h1>
 <h3 align="center">Cybersecurity Specialist | Ethical Hacker | Mentor | System Engineer | Cloud </h3>
 
-
-<h4 align="center"> 📍 Dhaka, Bangladesh | 🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-babu/) | 📧 cyber.mehedi.13@gmail.com | 🌐 [mehedibabu.com](https://motley-headline-35f.notion.site/Personal-Portfolio-1ebdd864886c80989ae1e6a3c9f55c73) </h4>
+📍 Dhaka, Bangladesh | 🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-babu/) | 📧 cyber.mehedi.13@gmail.com | 🌐 [mehedibabu.com](https://motley-headline-35f.notion.site/Personal-Portfolio-1ebdd864886c80989ae1e6a3c9f55c73)
 
 ---
 
