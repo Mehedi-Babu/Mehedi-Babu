@@ -84,26 +84,6 @@ Beyond technical expertise, I’m committed to **fostering a strong security cul
 - Conduct cybersecurity compliance audits (e.g., ISO 27001 readiness)
 - Conduct cybersecurity training, workshops, and seminars to promote awareness.
 
-### 🔹 **System Security Engineer**  
-**Wezapps Limited** (Sep 2020 – May 2022)
-
-- Managed and monitored cloud services and Linux-based environments.
-- Conducted system and web service vulnerability assessments and penetration testing.
-- Implemented defensive security measures and audited IT infrastructure.
-- Provided operational support for server, storage, and network infrastructure.
-
-### 🔹 **System Support Engineer**  
-**Polock Group** (Jan 2014 - May 2018)
-
-- Managed electronic security systems, including CCTV, biometric access, and IoT devices.
-- Troubleshot server and system issues, ensuring operational continuity.
-
-### 🔹 **Mentor**  
-** ICT Olympiad Bangladesh** (June 2022 – Dec 2022)
-
--  Designed curriculum and course modules for cybersecurity and IT training.
-- Conducted classes for students and fellow mentors, fostering skill development.
-
 *(Full experience details available on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-babu/))*
 
 ---
