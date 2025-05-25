@@ -136,7 +136,7 @@ Beyond technical expertise, I’m committed to **fostering a strong security cul
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehedi-hasan-babu/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/Mehedi_Babu_II)
-
+[![Portfolio](https://img.shields.io/badge/Notion%20Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://motley-headline-35f.notion.site/Personal-Portfolio-1ebdd864886c80989ae1e6a3c9f55c73)
 ---
 
 <p align="center">
